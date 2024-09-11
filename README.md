@@ -1,24 +1,131 @@
-<h1 align="center">Hey there! 👾 I'm Starkode-Du-Code, your friendly neighborhood coder!</h1>
-<h3 align="center">A full-stack developer who switching from civil engineering and fell in love with coding. From structures to scripts, I'm building it all!</h3>
-
-- 🛠️ Currently crafting magic on: **Instead of focusing on just one project, I'm juggling multiple exciting ventures—stay tuned for some tech magic!**
-
-- 🌱 Right now, I'm mastering: **Expanding my toolkit with cutting-edge web frameworks, the latest in frontend design, and some backend awesomeness.**
-
-- 🤝 Looking to team up on: **Always down to collaborate on fun, creative, and impactful projects. If you’ve got a challenge, let's turn it into code!**
-
-- 🧠 Need help cracking the code on: **Scalable web app architectures and advanced JavaScript frameworks.**
-
-- 💬 Chat with me about: **Hit me up for anything related to React, Vue, and GSAP. I might not know everything, but I sure know how to find the answers!**
-
-- 📫 Drop me a line at: **MHDstark@yahoo.com**
-
-- ⚡ Fun fact **I used to design buildings, now I build web apps — same satisfaction, fewer hard hats!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/stark kassa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stark kassa" height="30" width="40" /></a>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=Starkode-Du-Code&label=Profile%20views&color=0e75b6&style=flat" alt="Starkode-Du-Code" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1 align="center">Hey there! 👾 I'm Starkode-Du-Code, your friendly neighborhood coder!</h1>
+<h3 align="center">A full-stack developer who switched from civil engineering and fell in love with coding. From structures to scripts, I'm building it all!</h3>
+
+<!-- Typing Effect Section -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F707&center=true&vCenter=true&width=435&lines=Building+ideas+into+code...;Switching+from+bridges+to+databases!;Turning+coffee+%F0%9F%8D%B5+into+code+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let’s+create+something+amazing!+%F0%9F%8C%9F">
+</p>
+
+<!-- Fancy Introduction -->
+<h2 align="center">✨ Who Am I? ✨</h2>
+<p align="center">
+  I'm a web developer passionate about tech who transitioned from civil engineering into full-stack development. Whether it's frontend magic or backend logic, I'm dedicated to bringing ideas to life with clean, scalable code!
+</p>
+
+<!-- Current Projects -->
+<h2 align="center">What I'm Up To 🛠️</h2>
+<ul>
+    <li>🛠️ <strong>Currently crafting magic on:</strong> Juggling multiple exciting ventures at once—stay tuned for tech wizardry! ✨</li>
+    <li>🌱 <strong>Right now, I'm mastering:</strong> The latest web frameworks, modern UI/UX, and backend technologies!</li>
+</ul>
+
+<!-- Collaboration -->
+<h2 align="center">Let's Collaborate 🤝</h2>
+<ul>
+    <li>🤝 <strong>Looking to team up on:</strong> Fun, creative, and impactful projects. Let’s build the future together! 🚀</li>
+    <li>🧠 <strong>Need help cracking the code on:</strong> Scalable architectures, JavaScript frameworks, and anything you can throw at me!</li>
+</ul>
+
+<!-- Fun Fact and Personality -->
+<h2 align="center">A Little About Me 🧑‍💻</h2>
+<ul>
+    <li>⚡ <strong>Fun fact:</strong> From designing buildings to designing apps—same thrill, fewer hard hats! 😄</li>
+    <li>📖 <strong>When I’m not coding, I’m:</strong> Playing chess ♟, exploring AI 🤖, or trying out the latest gadgets!</li>
+</ul>
+
+<!-- Cool Animated GitHub Stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Starkode-Du-Code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Starkode-Du-Code's GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Starkode-Du-Code&theme=tokyonight&hide_border=true" alt="Starkode-Du-Code's GitHub Streak" />
+</p>
+
+<!-- Language Card -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starkode-Du-Code&layout=compact&theme=tokyonight&hide_border=true" alt="Starkode-Du-Code's Top Languages" />
+</p>
+
+<!-- Social Links -->
+<h2 align="center">Stay Connected 🔗</h2>
+<p align="center">
+    <a href="https://linkedin.com/in/stark-kassa" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    </a>
+    <a href="mailto:MHDstark@yahoo.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Starkode-Du-Code">
+        <img src="https://img.shields.io/github/followers/Starkode-Du-Code?label=Follow&style=social" alt="GitHub Followers" />
+    </a>
+</p>
+
+<!-- Latest Projects -->
+<h2 align="center">Check Out My Latest Projects 🌟</h2>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://project-link.com" target="_blank" rel="noreferrer">Project Name 1 🚀</a>
+                </h3>
+                <p align="center">
+                    <a href="https://project-link.com" target="_blank" rel="noreferrer">
+                        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="project gif" width="300"/> 
+                    </a>
+                    <p align="center">A cool project where I used Vue and Node.js to solve a unique problem!</p>
+					<details>
+						<summary><b>Tech Stack 🛠️</b></summary>
+						<p>Built with Vue.js, Node.js, MongoDB, and AWS.</p>
+					</details>
+            </p>
+            </td>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://chrome-extension.com" target="_blank" rel="noreferrer">Awesome Chrome Extension 🖥️</a>
+                </h3>
+                <p align="center">
+                    <a href="https://chrome-extension.com" target="_blank" rel="noreferrer">
+                        <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" alt="extension gif" width="300"/>
+                    </a>
+                    <p align="center">Boost your productivity with this sleek Chrome extension.</p>
+					<details>
+						<summary><b>Tech Stack 🛠️</b></summary>
+						<p>Created using Vanilla JS, HTML, CSS, and Webpack.</p>
+					</details>
+                </p>
+            </td>
+        </tr>
+  </table>
+</div>
+
+<!-- Fun Section -->
+<h2 align="center">Fun Fact 💡</h2>
+<p align="center">
+    <img src="https://media.giphy.com/media/fdGc4DQPdcCZbGUpJz/giphy.gif" alt="fun gif" />
+</p>
+<p align="center">
+    <strong>From buildings to apps—creating is in my DNA!</strong>
+</p>
+
+<!-- Buy Me A Coffee -->
+<h2 align="center">Support My Work ☕️</h2>
+<p align="center">
+    <a href='https://ko-fi.com/Starkode-Du-Code' target='_blank'>
+        <img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    </a>
+</p>
+
+<!-- Special Quote -->
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
+
+<!-- GitHub Trophy -->
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Starkode-Du-Code&theme=dracula" alt="github trophy" />
+</p>
